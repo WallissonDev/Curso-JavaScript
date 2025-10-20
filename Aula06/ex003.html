@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ex001 - JavaScript</title>
+    <style>
+        body{
+            background-color: rgb(178, 178, 255);
+            color: white;
+            font-: normal 20px Arial;
+        }
+    </style>
+</head>
+<body>
+    <h1>Olá, mundo!</h1>
+    <p>Iniciando no JavaScript</p>
+    <script>
+        var n1 = Number(window.prompt('Digite um número: ')) // Recebe valor string -> Converte para int com Number.parseInt
+        var n2 = Number(window.prompt('Digite outro número: ')) // Recebe valor string -> Converte para int com Number.parseInt
+        var s = n1 + n2 // Convertemos para number para somar, se não, ele concatenava
+        window.alert(`A soma dos valores ${n1} + ${n2} é ${s}`)
+        // number + number Para adição
+        // string + string Para concatenação
+    </script>
+</body>
+</html>
