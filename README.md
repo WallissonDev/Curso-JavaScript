@@ -12,13 +12,13 @@ Exercício 001 - Primeiras linhas de JS - <a href="https://github.com/WallissonD
 </p>
 
 <p>
-Exercício 002 - Variável e Concatenação - <a href="https://github.com/WallissonDev/curso-javascript/blob/main/Aula6/ex002.html">Código</a> - <a href="https://wallissondev.github.io/curso-javascript/Aula06/ex002.html>" rel="next" target="_blank">Site</a>
+Exercício 002 - Variável e Concatenação - <a href="https://github.com/WallissonDev/curso-javascript/blob/main/Aula06/ex002.html">Código</a> - <a href="https://wallissondev.github.io/curso-javascript/Aula06/ex002.html>" rel="next" target="_blank">Site</a>
 </p>
 
 <p>
-Exercício 003 - Conversão para Number ou String - <a href="https://github.com/WallissonDev/curso-javascript/blob/main/Aula6/ex003.html">Código</a> - <a href="https://wallissondev.github.io/curso-javascript/Aula06/ex003.html>" rel="next" target="_blank">Site</a>
+Exercício 003 - Conversão para Number ou String - <a href="https://github.com/WallissonDev/curso-javascript/blob/main/Aula06/ex003.html">Código</a> - <a href="https://wallissondev.github.io/curso-javascript/Aula06/ex003.html>" rel="next" target="_blank">Site</a>
 </p>
 
 <p>
-Exercício 004 - Manipulação de dados / Template String -  <a href="https://github.com/WallissonDev/curso-javascript/blob/main/Aula6/ex004.html">Código</a> - <a href="https://wallissondev.github.io/curso-javascript/Aula06/ex004.html>" rel="next" target="_blank">Site</a>
+Exercício 004 - Manipulação de dados / Template String -  <a href="https://github.com/WallissonDev/curso-javascript/blob/main/Aula06/ex004.html">Código</a> - <a href="https://wallissondev.github.io/curso-javascript/Aula06/ex004.html>" rel="next" target="_blank">Site</a>
 </p>
