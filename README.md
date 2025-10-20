@@ -10,6 +10,7 @@ Número ou Nome do Exercício - Descrição do Exercício - Link para o código 
 <p>
 Exercício 001 - Primeiras linhas de JS - <a href="https://github.com/WallissonDev/curso-javascript/blob/main/Aula04/ex001.html">Código</a> - <a href="https://wallissondev.github.io/curso-javascript/Aula04/ex001.html>" rel="next" target="_blank">Site</a>
 </p>
+<hr>
 
 <p> Módulo B: Comandos Básicos do JavaScript</p><br>
 
