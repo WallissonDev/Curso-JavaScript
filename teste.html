@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Cálculo</h1>
+    <input type="number" name="n1" id="n1">
+    <input type="number" name="n2" id="n2">
+    <input type="button" value="Clique" id="botaoDeSoma">
+    <div id="resultado">Resultado: </div>
+
+    <script>
+       var botaoDeSomar = window.document.getElementById('botaoDeSoma')
+       botaoDeSomar.addEventListener('click', somar)
+
+       function somar() {
+            var num1 = window.document.getElementById('n1')
+            var num2 = window.document.getElementById('n2')
+            var num1 = Number(num1.value)
+            var num2 = Number(num2.value)
+            var soma = num1 + num2
+            var res = window.document.getElementById('resultado')
+            res.innerHTML = `Resultado: ${soma}`
+       }
+
+    </script>
+</body>
+</html>

@@ -40,3 +40,24 @@ Exercício 006 - Eventos e Funções Parte 1 -  <a href="https://github.com/Wall
 <p>
 Exercício 007 - Eventos e Funções Parte 2 -  <a href="https://github.com/WallissonDev/curso-javascript/blob/main/Aula10/ex007.html">Código</a> - <a href="https://wallissondev.github.io/curso-javascript/Aula10/ex007.html>" rel="next" target="_blank">Site</a>
 </p>
+<hr>
+
+<p> Módulo D: Condições em JavaScript</p><br>
+
+<p>
+Exercício 008 - Condições Simples -  <a href="https://github.com/WallissonDev/curso-javascript/blob/main/Aula11/ex008.js">Código</a>
+</p>
+
+<p>
+Exercício 009 - Condições Compostas -  <a href="https://github.com/WallissonDev/curso-javascript/blob/main/Aula11/ex009.js">Código</a>
+</p>
+
+<p>
+Exercício 010 - Condições no HTML -  <a href="https://github.com/WallissonDev/curso-javascript/blob/main/Aula11/ex010.html">Código</a> - <a href="https://wallissondev.github.io/curso-javascript/Aula11/ex010.html>" rel="next" target="_blank">Site</a>
+</p>
+
+<p>
+Exercício 011 - Condições Aninhadas -  <a href="https://github.com/WallissonDev/curso-javascript/blob/main/Aula12/ex011.js">Código</a>
+</p>
+<hr>
+
