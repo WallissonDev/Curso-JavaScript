@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hora do Dia</title>
+    <style>
+        body{ 
+            background-color: #aeaeae;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        h1{
+            text-align: center;
+        
+        }
+        h2{
+            text-align: center;
+            padding-top: 10px;
+        }
+
+        img#imagem{
+            width: 200px;
+            height: 200px;
+            border-radius: 100%;
+            
+        }
+        div#caixa-principal{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+
+            background-color: white;
+            width: 600px;
+            height: 300px;
+            margin: auto;
+            box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.395);
+            border-radius: 5px;
+        }
+        p#paragrafo{
+            text-align: center;
+            color: #a1a1a1;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hora do dia</h1>
+    <div id="caixa-principal">
+        <h2 id="HoraAtual">Agora são </h2>
+        <img src="imagens/fotodia.jpg" alt="FotoHoraDia" id="imagem">
+    </div>
+    <p id="paragrafo">Feito por Wallisson</p>
+    <script>
+
+        // Acesso a Hora Atual
+        var subTituloHora = window.document.getElementById("HoraAtual")
+        var hora = new Date()
+        var horaDeAgora = hora.getHours()
+        subTituloHora.innerText = `Agora são: ${horaDeAgora} horas.`
+        var teste = window.document.getElementById("imagem")
+
+        // Campo da Troca das Cores de Acordo Com a Hora
+        var fundoHora = window.document.body
+        if ( horaDeAgora <= 12 && horaDeAgora >= 6) {
+            fundoHora.style.background = "#ffffd2"
+            fundoHora.style.color = "black"
+            teste.src = "imagens/fotodia.jpg"
+        } else if ( horaDeAgora > 12 && horaDeAgora < 18) {
+            fundoHora.style.background = "#ffb381"
+            fundoHora.style.color = "black      "
+            teste.src = "imagens/fototarde.jpg"
+        } else { 
+            fundoHora.style.background = "#111532"
+            fundoHora.style.color = "black"
+            var titulo = window.document.getElementsByTagName("h1")[0]
+            titulo.style.color = "white"
+            teste.src = "imagens/fotonoite.jpg"
+        }
+        
+        
+        
+    </script>
+</body>
+</html>

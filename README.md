@@ -57,7 +57,23 @@ Exercício 010 - Condições no HTML -  <a href="https://github.com/WallissonDev
 </p>
 
 <p>
-Exercício 011 - Condições Aninhadas -  <a href="https://github.com/WallissonDev/curso-javascript/blob/main/Aula12/ex011.js">Código</a>
+Exercício 011 - Condições Aninhadas Parte 1 -  <a href="https://github.com/WallissonDev/curso-javascript/blob/main/Aula12/ex011.js">Código</a>
+</p>
+
+<p>
+Exercício 012 - Condições Aninhadas Parte 2 -  <a href="https://github.com/WallissonDev/curso-javascript/blob/main/Aula12/ex012.js">Código</a>
+</p>
+
+<p>
+Exercício 013 - Switch -  <a href="https://github.com/WallissonDev/curso-javascript/blob/main/Aula12/ex013.js">Código</a>
+</p>
+
+<p>
+Exercício 014 - Hora do Dia - <a href="https://github.com/WallissonDev/curso-javascript/blob/main/Aula12/script.js">Código JS</a> - <a href="https://wallissondev.github.io/curso-javascript/Aula12/ex014-solved.html>">Site</a> - <a href="https://github.com/WallissonDev/curso-javascript/blob/main/Aula12/estilo.css"> Código CSS
+</p>
+
+<p>
+Exercício 015 - Verificador de Idade - <a href="https://github.com/WallissonDev/curso-javascript/blob/main/Aula12/script_ex15.js">Código JS</a> - <a href="https://wallissondev.github.io/curso-javascript/Aula12/ex015-solved.html>">Site</a> - <a href="https://github.com/WallissonDev/curso-javascript/blob/main/Aula12/style.css"> Código CSS
 </p>
 <hr>
 
